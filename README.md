@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=o-zack-0390&left_color=gray&right_color=blue)
- 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-zack-0390&theme=vue)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-zack-0390&show_icons=true)
