@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+日記も書いてます。<br>
+・<a href="https://web-diarys.web.app/">Web Diarys</a>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=o-zack-0390&theme=vue)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-zack-0390&show_icons=true)
