@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>
  Web日記やってます。<br>
  <ul>
-  <li><a href="https://web-diarys.web.app/">Web Diarys</a></li>
+  <li><a href="https://web-diarys.web.app/">大学時代のWeb日記（Web Diarys）</a></li>
  </ul>
 </h2>
 
