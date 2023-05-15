@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 <br><br>
 
 <h3>ムシキングカードを全種類集めたムシキング世代です。</h3>
-![スクリーンショット 2023-05-15 130047](https://github.com/o-zack-0390/o-zack-0390/assets/116938721/f6021f03-04ee-4261-aa22-2cb0865c7634)
+![スクリーンショット 2023-05-15 130047](https://github.com/o-zack-0390/o-zack-0390/assets/116938721/cd7feb89-1c10-42af-a499-53bda793acd9)
+
 
 <h2>
  Web日記やってます。<br><br>
