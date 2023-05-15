@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-zack-0390&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-<h3><font color="red">ムシキングカードを全種類集めたムシキング世代です。</font></h3>
+<h3>ムシキングカードを全種類集めたムシキング世代です。</h3>
 <img width="750" alt="スクリーンショット 2023-05-15 1330048" src="https://github.com/o-zack-0390/o-zack-0390/assets/116938721/81e1c444-6107-4133-8a4f-64c9caf9a920">
 
 
 
-<h2>
- <font color="red">Web日記を作成しています。</font><br><br>
+<h3>
+ Web日記を作成しています。<br><br>
  <ul>
   <li><a href="https://web-diarys.web.app/">大学時代のWeb日記（Web Diarys）</a></li>
  </ul>
-</h2>
+</h3>
