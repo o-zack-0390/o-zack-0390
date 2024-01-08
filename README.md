@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 <h3>
  Web日記を作成しています。<br><br>
  <ul>
-  <li><a href="https://web-diarys.web.app/">大学時代のWeb日記（Web Diarys）</a></li>
+  <li><a href="[https://web-diarys.web.app/](https://web-diarys.web.app/web-front-portfolio-main/public/index.html)https://web-diarys.web.app/web-front-portfolio-main/public/index.html">制作物紹介サイト</a></li>
  </ul>
 </h3>
