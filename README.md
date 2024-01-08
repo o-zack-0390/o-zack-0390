@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <h3>
- Web日記を作成しています。<br><br>
+ Web制作物紹介サイトを作成しました<br><br>
  <ul>
   <li><a href="https://web-diarys.web.app/web-front-portfolio-main/public/index.html">制作物紹介サイト</a></li>
  </ul>
