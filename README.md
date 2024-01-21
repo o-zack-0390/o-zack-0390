@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [zenn](https://zenn.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoge&show_icons=true&locale=en&layout=compact" alt="t-keshi" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoge&show_icons=true&locale=en" alt="hoge" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=o-zack-0390&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoge&" alt="hoge" /></p>
 
 <h3>ムシキングカードを全種類集めたムシキング世代です。</h3>
